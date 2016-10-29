@@ -14,3 +14,11 @@
    * This tutorial introduces ROS topics as well as using the rostopic and rqt_plot commandline tools.
 7. Understanding ROS Services and Parameters
    * This tutorial introduces ROS services, and parameters as well as using the rosservice and rosparam commandline tools.
+10. Creating a ROS msg and srv
+   * This tutorial covers how to create and build msg and srv files as well as the rosmsg, rossrv and roscp commandline tools.
+11. Writing a Simple Publisher and Subscriber (C++)
+   * This tutorial covers how to write a publisher and subscriber node in C++.
+12. Writing a Simple Publisher and Subscriber (Python)
+   * This tutorial covers how to write a publisher and subscriber node in python.
+13. Examining the Simple Publisher and Subscriber
+   * This tutorial examines running the simple publisher and subscriber.
